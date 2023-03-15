@@ -20,3 +20,7 @@ public class Animal {
         return 10;
     }
 }
+
+class Animal2{
+
+}
