@@ -14,4 +14,5 @@ public class Egg {
     {
         number = 4;
     }
+
 }
